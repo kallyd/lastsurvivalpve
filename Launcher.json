@@ -1,5 +1,5 @@
 {   
-	"Version": "1.11",
+	"Version": "1.12",
 	"FileList":"http://morgado2.duckdns.org:3390/UpdatePVE/filelist.json",
 	"DownloadUpdate": "http://morgado2.duckdns.org:3390/ClientGamePVE/",		
 	"News": [
